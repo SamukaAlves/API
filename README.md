@@ -18,4 +18,4 @@ Vamos construir uma api com funcionalidades para que uma empresa realize o gerec
 - https://www.mongodb.com/pt-br/cloud/atlas/register
 - https://www.npmjs.com/package/dotenv
 - https://mongoosejs.com
-- https://github.com/jquense/yup
+- https://github.com/jquense/yup# API
